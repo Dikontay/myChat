@@ -1,0 +1,19 @@
+{
+  "name": "mychat",
+  "version": "1.0.0",
+  "description": "real time chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "nmp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dikontay/myChat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dikontay/myChat/issues"
+  },
+  "homepage": "https://github.com/Dikontay/myChat#readme"
+}
